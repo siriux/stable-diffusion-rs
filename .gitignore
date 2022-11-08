@@ -1,0 +1,5 @@
+target/
+data/
+Cargo.lock
+*png
+.cargo/config.toml
